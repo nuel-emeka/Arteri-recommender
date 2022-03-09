@@ -3,6 +3,7 @@ import psycopg2
 from sklearn.metrics.pairwise import cosine_similarity as cs
 import numpy as np
 from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 from userData import userData
 import uvicorn
 
