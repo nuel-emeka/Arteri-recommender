@@ -13,9 +13,9 @@ def fetchData():
     # postgres database
     PG_USER= 'postgres'
     PG_PASSWORD= 'Arteri-Insura123!'
-    PG_ADDRESS= 'arteri-insura-staging.ciejcbdgcnne.us-east-2.rds.amazonaws.com'
+    PG_ADDRESS= 'arteri-insura-prod.ciejcbdgcnne.us-east-2.rds.amazonaws.com'
     PG_PORT= '5432'
-    PG_DATABASE= 'postgres'
+    PG_DATABASE= 'arteri'
     # connecting to DB
     conn = psycopg2.connect(dbname=PG_DATABASE, user=PG_USER, password=PG_PASSWORD, host=PG_ADDRESS)
     sql = ("SELECT id, description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening FROM plans")
