@@ -11,6 +11,7 @@ import uvicorn
 
 def fetchData():
     # postgres database
+    # just a little change
     PG_USER= 'postgres'
     PG_PASSWORD= 'Arteri-Insura123!'
     PG_ADDRESS= 'arteri-insura-prod.ciejcbdgcnne.us-east-2.rds.amazonaws.com'
