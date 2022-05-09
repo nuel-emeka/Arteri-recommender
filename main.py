@@ -19,7 +19,7 @@ def fetchData():
     PG_DATABASE= 'arteri'
     # connecting to DB
     conn = psycopg2.connect(dbname=PG_DATABASE, user=PG_USER, password=PG_PASSWORD, host=PG_ADDRESS)
-    sql = ("SELECT id, description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening FROM plans")
+    sql = ("SELECT id, description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening FROM plans WHERE plans.deleted_at IS NULL")
     data = pd.read_sql_query(sql,conn)
     rawData = pd.DataFrame(data)
     
