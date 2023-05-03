@@ -1,11 +1,17 @@
-# Arteri-recommender
-# Background
-There are over 50 HMOs in Nigeria, offering over 155 health plans. How does a regular Nigerian choose a health plan that suits their pocket and fits their exact need?
+#Arteri-Recommender: Healthcare & Insurance Recommendation for Nigeria
 
-Health insurance uptake in Nigeria has been abysmally low since inception, less than 5% of Nigerians have health insurance. Some of the reasons why health insurance uptake has been slow are the ability to pay, difficulty in decision making, and information overload due to the availability of over 155 health plan options from about 50 Health Maintenance Organizations.
+Arteri-Recommender is a pioneering application of recommender systems in healthcare and insurance in Nigeria, aiming to improve the accessibility and decision-making process of selecting Health Management Organizations (HMOs) and their plans.
 
-**Information Overload** : There are over 50 Health Maintenance Organizations in Nigeria that provide access to 155 Insurance and 30 different health payment plans.
+#Background
+Despite the importance of health insurance in Nigeria, its adoption rate remains low. To address this, efforts to raise awareness, facilitate access to information, and provide decision-making tools are crucial. AI-powered recommender systems, which have gained popularity in various domains, are employed to assist users in finding the right HMO and plan for their needs.
 
-**Decision Making** : For those who have access, there is always a difficult decision-making process when it comes time for them to pick their best and most appropriate insurance plan.
+HMOs serve as agents of the National Health Insurance Scheme (NHIS) and offer health insurance coverage to both private and public sectors. Currently, there are 58 NHIS-accredited HMOs in Nigeria, offering a total of 155 plans. These plans differ in aspects such as price, benefits, geographical coverage, and value-added options, making the selection process quite complex.
 
-With this recommendation engine, one can easily find an appropriate and suitable health plan that suits your specific needs and finances. We also layered user experience and ratings into this system, this ensures that whatever suggestions you are getting are refined by the experience of other users.
+#Approach
+We utilized a content-based recommender system that offers greater accuracy and efficiency, as it can be implemented offline and is non-dynamic, unlike user-based methods. The system was developed using the Cosine Similarity algorithm, which outperformed the KNN algorithm in our evaluations.
+
+##Algorithm Performance Evaluation
+Our experienced team of medical and domain experts assessed the algorithm's performance by comparing the recommendations provided by both the Cosine Similarity and KNN algorithms. We input various user choices into the recommender systems and examined the resulting recommendations. It was determined that the Cosine Similarity algorithm provided the most accurate recommendations, as most users already on insurance plans were recommended their current HMOs after inputting their needs.
+
+#How it Works
+The Arteri-Recommender system considers user preferences and filters HMO data based on location and price range. It then recommends the top 3 HMOs with the closest similarity in services offered according to the user's preferences.
