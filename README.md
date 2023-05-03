@@ -20,7 +20,8 @@ Our experienced team of medical and domain experts assessed the algorithm's perf
 
 The Arteri-Recommender system considers user preferences and filters HMO data based on location and price range. It then recommends the top 3 HMOs with the closest similarity in services offered according to the user's preferences.
 
-
+# Data and other resources
+We have added the data used in developing this algorithm including the raw data we collected. This will need to be updated and edited to reflect present realities and state of things
 
 
 # Development Team 
