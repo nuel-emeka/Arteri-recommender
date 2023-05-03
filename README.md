@@ -23,8 +23,8 @@ The Arteri-Recommender system considers user preferences and filters HMO data ba
 
 
 
-#Team 
+# Team 
 
 
 
-###For questions and clarifications: reach out to Emmanuel or Ayo
+### For questions and clarifications: reach out to Emmanuel (emmanuelnnaemeka847@gmail.com) or Ayo (blacbard@gmail.com)
