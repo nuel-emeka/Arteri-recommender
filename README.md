@@ -1,5 +1,5 @@
 # Arteri-recommender
-
+# Background
 There are over 50 HMOs in Nigeria, offering over 155 health plans. How does a regular Nigerian choose a health plan that suits their pocket and fits their exact need?
 
 Health insurance uptake in Nigeria has been abysmally low since inception, less than 5% of Nigerians have health insurance. Some of the reasons why health insurance uptake has been slow are the ability to pay, difficulty in decision making, and information overload due to the availability of over 155 health plan options from about 50 Health Maintenance Organizations.
