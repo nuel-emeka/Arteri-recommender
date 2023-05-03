@@ -24,7 +24,18 @@ The Arteri-Recommender system considers user preferences and filters HMO data ba
 
 
 # Team 
+Emmanuel Nnaemeka - Lead ML Engineer 
+Ayomide Owoyemi - Product Manager, ML engineer & Clinical domain expert
+Daniel Eloghosa Irowa-Omoregie - Clinical domain expert
+Olukoya O. Fatosa - SWE
+Kenechukwu Jane Iloegbunam - ML Engineer
+Abdulrasheed Lawal
+Morountonu Oluwaseyi - Project Manager
+Wuraola Oyewusi - Advisor
+Abubakar Omolaja - SWE
+Ronald Ikpe - Clinical domain expert
 
 
 
-### For questions and clarifications: reach out to Emmanuel (emmanuelnnaemeka847@gmail.com) or Ayo (blacbard@gmail.com)
+### For questions and clarifications: 
+Reach out to Emmanuel (emmanuelnnaemeka847@gmail.com) or Ayo (blacbard@gmail.com)
