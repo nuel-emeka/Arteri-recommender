@@ -25,15 +25,25 @@ The Arteri-Recommender system considers user preferences and filters HMO data ba
 
 # Development Team 
 Emmanuel Nnaemeka - Lead ML Engineer 
+
 Ayomide Owoyemi - Product Manager, ML engineer & Clinical domain expert
+
 Daniel Eloghosa Irowa-Omoregie - Clinical domain expert
+
 Olukoya O. Fatosa - SWE
+
 Kenechukwu Jane Iloegbunam - ML Engineer
-Abdulrasheed Lawal
+
+Abdulrasheed Lawal - SWE
+
 Morountonu Oluwaseyi - Project Manager
+
 Wuraola Oyewusi - Advisor
+
 Abubakar Omolaja - SWE
+
 Ronald Ikpe - Clinical domain expert
+
 Temitope Isedowo - SWE
 
 
