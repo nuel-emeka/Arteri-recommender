@@ -48,5 +48,5 @@ Wuraola Oyewusi - Advisor
 Temitope Isedowo - SWE
 
 
-### For enquiries and clarifications: 
+## For enquiries and clarifications 
 Reach out to Emmanuel (emmanuelnnaemeka847@gmail.com) or Ayo (blacbard@gmail.com)
