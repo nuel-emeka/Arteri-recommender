@@ -33,7 +33,7 @@ Daniel Eloghosa Irowa-Omoregie - Medical domain expert
 
 Olukoya O. Fatosa - SWE
 
-Kenechukwu Jane Iloegbunam - ML Engineer
+Kenechukwu Jane Iloegbunam - Data Engineer
 
 Abdulrasheed Lawal - SWE
 
