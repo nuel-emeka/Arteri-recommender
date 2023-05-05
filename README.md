@@ -27,9 +27,9 @@ We have added the data used in developing this algorithm including the raw data 
 # Development Team 
 Emmanuel Nnaemeka - Lead ML Engineer 
 
-Ayomide Owoyemi - Product Manager, ML engineer & medical domain expert
+Ayomide Owoyemi - Product Manager, ML Engineer & medical domain expert
 
-Daniel Eloghosa Irowa-Omoregie - medical domain expert
+Daniel Eloghosa Irowa-Omoregie - Medical domain expert
 
 Olukoya O. Fatosa - SWE
 
@@ -39,14 +39,14 @@ Abdulrasheed Lawal - SWE
 
 Morountonu Oluwaseyi - Project Manager
 
-Wuraola Oyewusi - Advisor
-
 Abubakar Omolaja - SWE
 
-Ronald Ikpe - medical domain expert
+Ronald Ikpe - Medical domain expert
+
+Wuraola Oyewusi - Advisor
 
 Temitope Isedowo - SWE
 
 
-### For questions and clarifications: 
+### For enquiries and clarifications: 
 Reach out to Emmanuel (emmanuelnnaemeka847@gmail.com) or Ayo (blacbard@gmail.com)
