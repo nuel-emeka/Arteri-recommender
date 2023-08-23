@@ -1,8 +1,8 @@
-# Health Insurance Recommendation Engine for Nigeria
+# Health Insurance Recommendation Engine for Nigeria 
 
 This is a pioneering application of recommender systems in health insurance in Nigeria, aiming to improve the accessibility and decision-making process of selecting Health Management Organizations (HMOs) and their plans.
 
-## Background
+## Background 
 
 Despite the importance of health insurance in Nigeria, its adoption rate remains low. To address this, efforts to raise awareness, facilitate access to information, and provide decision-making tools are crucial. AI-powered recommender systems, which have gained popularity in various domains, are employed to assist users in finding the right HMO and plan for their needs.
 
