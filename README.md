@@ -24,6 +24,11 @@ The Arteri-Recommender system considers user preferences and filters HMO data ba
 We have added the data used in developing this algorithm including the raw data we collected. This will need to be updated and edited to reflect present realities and state of the industry.
 The HMO ratings file is a publicly aggregated feedback of some of the available HMOs which was applied to filter the final recommendation to the user.
 
+# Quick Notes
+"tier" which is part of the request payload when calling the predict API is an enum from 1 - 4. It simply means the plan tier that's to be considered by the machine learning algorithm when recommending the top 3 HMOs based on a user's preference.
+"location" which is part of the request payload when calling the predict API is a string of plain text location such as Imo, Lagos, Abuja.etc It simply means the location that's to be considered by the machine learning algorithm when recommending the top 3 HMOs based on a user's preference.
+Refer to the folder **Screenshots** for sample tests carried out on various locations. Also, refer to the folder **Scripts** for table creation and data insertion queries on a postgres database.
+
 
 # Development Team 
 Emmanuel Nnaemeka - Lead ML Engineer 
