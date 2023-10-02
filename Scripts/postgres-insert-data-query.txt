@@ -1,0 +1,444 @@
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Integrated Health Care Family', 'Ebony', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Integrated Health Care Family', 'Pine', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Integrated Health Care Family', 'Iroko', NULL, 'Tier 2', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Integrated Health Care Family', 'Teak', NULL, 'Tier 3', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Integrated Health Care Family', 'Marble', NULL, 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Integrated Health Care Family', 'Mahagony', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('INTERNATIONAL HEALTH MANAGEMENT SERVICES LIMITED', 'Basic', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('INTERNATIONAL HEALTH MANAGEMENT SERVICES LIMITED', 'Basic Plus', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('INTERNATIONAL HEALTH MANAGEMENT SERVICES LIMITED', 'Standard', NULL, 'Tier 2', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('INTERNATIONAL HEALTH MANAGEMENT SERVICES LIMITED', 'Standard Plus', NULL, 'Tier 3', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('INTERNATIONAL HEALTH MANAGEMENT SERVICES LIMITED', 'Comprehensive', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('IVES MEDICARE', 'Blue Plan', '25,000', 'Tier 1', 'Lagos', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('IVES MEDICARE', 'Green Plan', '35,000', 'Tier 2', 'Lagos', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('IVES MEDICARE', 'Yellow Plan', '65,000', 'Tier 3', 'Lagos', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('IVES MEDICARE', 'Red Plan', '160,000', 'Tier 4', 'Lagos', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('LIFE WORTH MEDICARE LTD.', 'BLUE PLAN', '40800', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('LIFE WORTH MEDICARE LTD.', 'ORANGE PLAN', '81360', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('LIFE WORTH MEDICARE LTD.', 'PURPLE PLAN', '125400', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('LIFE WORTH MEDICARE LTD.', 'GREEN PLAN', '217800', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MARKFEMA NIGERIA LIMITED', 'Pine', NULL, 'Tier 1', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MARKFEMA NIGERIA LIMITED', 'Oak', NULL, 'Tier 2', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MARKFEMA NIGERIA LIMITED', 'Cedar', NULL, 'Tier 3', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDEXIA Ltd', 'BASIC', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDEXIA Ltd', 'BRONZE', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDEXIA Ltd', 'PLATINUM', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDEXIA Ltd', 'ULTRA CARE', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDI PLAN Health Care Limited', 'APHP', NULL, 'Tier 1', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDI PLAN Health Care Limited', 'EHP', NULL, 'Tier 2', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDI PLAN Health Care Limited', 'EHPP', NULL, 'Tier 3', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDI PLAN Health Care Limited', 'UHP', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('MEDI PLAN Health Care Limited', 'SUHP', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('REGENIX HEALTH SERVICES LIMITED', 'Regimax', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('REGENIX HEALTH SERVICES LIMITED', 'Regiexec Mini', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('REGENIX HEALTH SERVICES LIMITED', 'Regiexec Medi', NULL, 'Tier 3', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('REGENIX HEALTH SERVICES LIMITED', 'Regiexec Max', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('RELIANCE HMO LIMITED', 'Red Beryl', '42,000', 'Tier 2', 'Nationwide', 'No', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('RELIANCE HMO LIMITED', 'Alexandrite', '72,000', 'Tier 3', 'Nationwide', 'No', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('RONSBERGER NIGERIA LIMITED', 'Bronze', '42000', 'Tier 2', 'Nationwide', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('RONSBERGER NIGERIA LIMITED', 'Silver', '60000', 'Tier 3', 'Nationwide', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('RONSBERGER NIGERIA LIMITED', 'Gold', '90000', 'Tier 3', 'Nationwide', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('RONSBERGER NIGERIA LIMITED', 'Platinum', '140000', 'Tier 4', 'Nationwide', 'No', 'Yes', 'yes', 'No', 'No', 'No', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SALUS TRUST GTE LIMITES', 'SALUS-GREEN', '19500', 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SALUS TRUST GTE LIMITES', 'SALUS-WHITE', '30900', 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SALUS TRUST GTE LIMITES', 'SALUS-GOLD', '99480', 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SALUS TRUST GTE LIMITES', 'SALUS-PLATINUM', '399480', 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SONGHAI HEALTH TRUST', 'Standard', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SONGHAI HEALTH TRUST', 'Classic', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SONGHAI HEALTH TRUST', 'Silver', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SONGHAI HEALTH TRUST', 'Gold', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('SONGHAI HEALTH TRUST', 'Gold plus', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Bronze', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Bronze Bold', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Silver', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Silver Special', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Gold', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Gold Plus', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('STERLING HEALTH MANAGED CARE SERVICES', 'Platinum', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Fountain Healthcare Limited', 'Essential plan', NULL, 'Tier 1', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Fountain Healthcare Limited', 'Classic Plan', NULL, 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Fountain Healthcare Limited', 'Gold Plan', NULL, 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Fountain Healthcare Limited', 'Diamond Plan', NULL, 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('Fountain Healthcare Limited', 'Platinum Plan', NULL, 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GNI HEALTHCARE NIGERIA LTD', 'Brass', '16,500', 'Tier 1', 'Lagos', 'No', 'No', 'Yes', 'No', 'No', 'No', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GNI HEALTHCARE NIGERIA LTD', 'Bronze plan', '24,750', 'Tier 1', 'Lagos', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GNI HEALTHCARE NIGERIA LTD', 'Silver Plan', '38,500', 'Tier 2', 'Lagos', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GNI HEALTHCARE NIGERIA LTD', 'Gold Plan', '73,000', 'Tier 3', 'Lagos', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GNI HEALTHCARE NIGERIA LTD', 'Diamond Plan', '110,000', 'Tier 4', 'Lagos', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GNI HEALTHCARE NIGERIA LTD', 'Platium Plan', '245,000', 'Tier 4', 'Lagos', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENBAY HEALTHCARE SERVICES LTD', 'Access Plan', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENBAY HEALTHCARE SERVICES LTD', 'Basic Plan', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENBAY HEALTHCARE SERVICES LTD', 'Standard Plan', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENBAY HEALTHCARE SERVICES LTD', 'Comprehensive Plan', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENBAY HEALTHCARE SERVICES LTD', 'Ultimate Plan', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENBAY HEALTHCARE SERVICES LTD', 'Executive Plan', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENFIELD HEALTH MANAGEMENT LTD.', 'Basic Plan', NULL, 'Tier 1', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENFIELD HEALTH MANAGEMENT LTD.', 'Standard Plan', NULL, 'Tier 1', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENFIELD HEALTH MANAGEMENT LTD.', 'Classic Plan', NULL, 'Tier 2', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENFIELD HEALTH MANAGEMENT LTD.', 'Gold Plan', NULL, 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('GREENFIELD HEALTH MANAGEMENT LTD.', 'Diamond Plan', NULL, 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTH PARTNERS LIMITED', 'Treasure', '12000', 'Tier 1', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTH PARTNERS LIMITED', 'Standard Plan', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTH PARTNERS LIMITED', 'Comprehensive Plan', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTH PARTNERS LIMITED', 'Classic Plan', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTH PARTNERS LIMITED', 'Classic plus Plan', NULL, 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTHCARE INTERNATIONAL LIMIITED', 'Titanium Compact', '35,000', 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTHCARE INTERNATIONAL LIMIITED', 'Titanium Klassic', '45,000', 'Tier 2', 'Nationwide', 'No', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTHCARE INTERNATIONAL LIMIITED', 'Titanium Ultra', '60,000', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTHCARE INTERNATIONAL LIMIITED', 'Titanium Deluxe', '160,000', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HEALTHCARE INTERNATIONAL LIMIITED', 'Titanium Royal', '195,000', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HYGEIA HMO LIMITED', 'HyBasic', '39,660/year', 'Tier 2', 'Nationwide', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HYGEIA HMO LIMITED', 'HyPrime', '133,360/year', 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HYGEIA HMO LIMITED', 'Hybasic Family', '163,480/year', 'Tier 4', 'Nationwide', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HYGEIA HMO LIMITED', 'HyPrime Plus', '392,260/year', 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('HYGEIA HMO LIMITED', 'Hyprime Family', '530,080/year', 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NONSUCH HMO', 'Platinum', NULL, 'Tier 1', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NONSUCH HMO', 'Gold', NULL, 'Tier 2', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NONSUCH HMO', 'Silver', NULL, 'Tier 3', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NONSUCH HMO', 'Standard', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NOVOHEALTH HMO', 'SIP', '15000/Year', 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NOVOHEALTH HMO', 'DIP', '25000/year', 'Tier 1', 'Nationwide', 'No', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NOVOHEALTH HMO', 'VIGP', '55000/year', 'Tier 2', 'Nationwide', 'No', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NOVOHEALTH HMO', 'SIGP', '130000/year', 'Tier 4', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('NOVOHEALTH HMO', 'VIP', '260000/year', 'Tier 4', 'Nationwide', 'No', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('OCEANIC HEALTH', 'Gold', '46800', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('OCEANIC HEALTH', 'Gold Plus', '67596', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('OCEANIC HEALTH', 'Diamond', '121800', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('OCEANIC HEALTH', 'Platinum', '234723', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PHILLIPS HMO', 'Basic', '19880/year', 'Tier 1', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PHILLIPS HMO', 'Bronze', '25275/year', 'Tier 1', 'Nationwide', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PHILLIPS HMO', 'Silver', '35000/year', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PHILLIPS HMO', 'Gold', '70535/year', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PHILLIPS HMO', 'Diamond', '166820/year', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PHILLIPS HMO', 'Platinum', '219800/year', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRINCETON HMO', 'Royal Plan', '42000', 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRINCETON HMO', 'Blue Plan', '48960', 'Tier 2', 'Nationwide', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRINCETON HMO', 'Platinum', '79992', 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PROHEALTH HMO', 'Emerald', '50,500', 'Tier 2', 'Nationwide', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PROHEALTH HMO', 'Ruby', '80,500', 'Tier 3', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PROHEALTH HMO', 'Pearl', '117,500', 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PROHEALTH HMO', 'Diamond', '200,500', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PREPAID MEDICARE SERVICES', 'Alpha', NULL, 'Tier 1', 'Nationwide', 'No', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PREPAID MEDICARE SERVICES', 'Omega', NULL, 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PREPAID MEDICARE SERVICES', 'Omega Plus', NULL, 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRECIOUS HMO', 'Precious', '30000', 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRECIOUS HMO', 'Diamond', '49920', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'No', 'Yes', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRECIOUS HMO', 'Star', '79920', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRECIOUS HMO', 'Olive', '150000', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('PRECIOUS HMO', 'Olive Exec', '199920', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'Yes', 'Yes', 'No', 'Yes', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AIICO-MULTISHIELD NIGERIA LIMITED', 'Standard', NULL, 'Tier 1', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'No', 'No', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AIICO-MULTISHIELD NIGERIA LIMITED', 'Executive', NULL, 'Tier 2', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AIICO-MULTISHIELD NIGERIA LIMITED', 'Super Executive', NULL, 'Tier 3', 'Nationwide', 'No', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AIICO-MULTISHIELD NIGERIA LIMITED', 'Magnum', NULL, 'Tier 4', 'Nationwide', 'Yes', 'No', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('ANCHOR HMO INTERNATIONAL COMPANY LTD', 'Welfare', '40000', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('ANCHOR HMO INTERNATIONAL COMPANY LTD', 'Select', '60000', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('ANCHOR HMO INTERNATIONAL COMPANY LTD', 'Ultimate', '90000', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('ANCHOR HMO INTERNATIONAL COMPANY LTD', 'Executive', '160000', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AVON HEALTHCARE LIMITED', 'Life Starter', '20000', 'Tier 1', 'Nationwide', 'Yes', 'Yes', 'No', 'No', 'No', 'No', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AVON HEALTHCARE LIMITED', 'Life Plus', '43000', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AVON HEALTHCARE LIMITED', 'Premium Life', '70000', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AVON HEALTHCARE LIMITED', 'Boss Life', '141000', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AXA MANSARD HEALTHCARE LTD', 'Bronze', '49800', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AXA MANSARD HEALTHCARE LTD', 'Silver', '68750', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AXA MANSARD HEALTHCARE LTD', 'Gold', '120500', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AXA MANSARD HEALTHCARE LTD', 'Platinum', '303350', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('AXA MANSARD HEALTHCARE LTD', 'Platinum Plus', '489600', 'Tier 4', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'No', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('CLEARLINE INTERNATIONAL LIMITED', 'Superb Health', '25000', 'Tier 1', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('CLEARLINE INTERNATIONAL LIMITED', 'Silver Plan', '50000', 'Tier 2', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 
+-- SQLINES LICENSE FOR EVALUATION USE ONLY
+INSERT INTO plans (description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening, plans_deleted_at) VALUES ('CLEARLINE INTERNATIONAL LIMITED', 'Gold Plan', '75000', 'Tier 3', 'Nationwide', 'Yes', 'Yes', 'Yes', 'No', 'No', 'Yes', 'Yes', 'No', 'Yes', NULL);
+ 

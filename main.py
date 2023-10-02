@@ -4,22 +4,25 @@ from sklearn.metrics.pairwise import cosine_similarity as cs
 import numpy as np
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from userData import userData
+from userData import userData, predictionData
 import uvicorn
 
-
-
-def fetchData():
+def get_connection():
     # postgres database
     # just a little changes
-    PG_USER= 'postgres'
-    PG_PASSWORD= 'Arteri-Insura123!'
-    PG_ADDRESS= 'arteri-insura-prod.ciejcbdgcnne.us-east-2.rds.amazonaws.com'
+    PG_USER= 'gurlinbg'
+    PG_PASSWORD= 'NQ0KmiLuOSlS5H2d6zMMoZZaqcvh-bC6'
+    PG_ADDRESS= 'dumbo.db.elephantsql.com'
     PG_PORT= '5432'
-    PG_DATABASE= 'arteri'
+    PG_DATABASE= 'gurlinbg'
     # connecting to DB
     conn = psycopg2.connect(dbname=PG_DATABASE, user=PG_USER, password=PG_PASSWORD, host=PG_ADDRESS)
-    sql = ("SELECT id, description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening FROM plans WHERE plans.deleted_at IS NULL")
+
+    return conn
+
+def fetchData():
+    conn = get_connection()
+    sql = ("SELECT id, description, title, price, tier, coverage, family_planning, mental_health, dental_care, telemedicine_service, cashback_benefit, anc_delivery_coverage, eye_care_cost, gym_membership, annual_medical_screening FROM plans WHERE plans_deleted_at IS NULL")
     data = pd.read_sql_query(sql,conn)
     rawData = pd.DataFrame(data)
     
@@ -40,9 +43,9 @@ def get_data_public(filename):
 
 def get_ready(data):
     now = data
-    now['tier'] = now['tier'].apply(lambda x: x-1)
-    for col in now.columns[6:]:
-        now[col] = now[col].apply(lambda x: int(x))
+    now['tier'] = now['tier'].apply(lambda x: int(x.replace("T","").replace("i","").replace("e","").replace("r","").strip()) - 1)
+    for col in now.columns[6:]: 
+        now[col] = now[col].apply(lambda x: 0 if x == "No" else 1)
     now = pd.get_dummies(now, columns=['coverage'], prefix=['location'])
     now = now.iloc[:, 4:]
     return now
@@ -79,7 +82,7 @@ def clean_ratings(ratings_data, hmo):
     ratings.dropna(subset=['Name'], inplace=True)
     ratings['Name'] = ratings['Name'].apply(lambda x: x.upper().strip())
     ratings['sum ratings'] = ratings.iloc[:, [3,4,5,6]].sum(axis=1)
-    ratings = ratings.groupby('Name').mean()[['sum ratings']]
+    ratings = ratings.groupby('Name').agg({'sum ratings':'mean'})
     
     hmo = [hmo_ for hmo_ in hmo if hmo_ in ratings.index]
     hmo_ratings = ratings.loc[hmo, ['sum ratings']].sort_values(by='sum ratings', ascending=False)
@@ -119,7 +122,7 @@ def recommend(test, df=df):
     loc = test[-2]
     
     if loc == 0:
-        rows_drop = df[(df['location_lagos']==1)].index
+        rows_drop = df[(df['location_Lagos']==1)].index
         df = df.drop(rows_drop, axis=0)
     else:
         pass
@@ -148,6 +151,29 @@ def recommend(test, df=df):
     return index_
 
 
+def fetchHmoData(value):
+    values = value.split(",")
+    result = []
+
+    conn = get_connection()
+
+    for item in values:
+        sql = (f"SELECT description, title FROM plans WHERE id = {item}")
+        data = pd.read_sql_query(sql,conn)
+        rawData = pd.DataFrame(data)
+
+        description = rawData["description"][0]
+        title = rawData["title"][0]
+
+        # create hmo data as an anonymous object
+        hmoData = type('',(object,),{"planId": item, "hmoName": description, "hmoPlan": title})()
+        result.append(hmoData)
+
+    conn.close()  
+ 
+    return result    
+
+
 app = FastAPI()
 
 app.add_middleware(CORSMiddleware,
@@ -161,8 +187,8 @@ def home():
     return "Welcome to Arteri Africa"
 
 @app.post('/predict')
-def predict(data: userData):
-    data = data.dict()
+def predict(data: userData) -> list[predictionData]:
+    data = data.model_dump()
     tier = data['tier'] - 1 # tier 1 to 4 is encoded as 0 to 3
     family_planning = int(data['family_planning'])
     mental_health = int(data['mental_health'])
@@ -184,9 +210,17 @@ def predict(data: userData):
     else:
         user.pop(-1)
         user.append(0)
-        user.append(1)   
+        user.append(1)
+
     value = recommend(test=user, df=df)
-    return value
+
+    hmoData = fetchHmoData(value)
+
+    return [
+        predictionData(planId=hmoData[0].planId.strip(), hmoName=hmoData[0].hmoName, hmoPlan=hmoData[0].hmoPlan),
+        predictionData(planId=hmoData[1].planId.strip(), hmoName=hmoData[1].hmoName, hmoPlan=hmoData[1].hmoPlan),
+        predictionData(planId=hmoData[2].planId.strip(), hmoName=hmoData[2].hmoName, hmoPlan=hmoData[2].hmoPlan)
+    ]
     
 
 if __name__=='__main__':

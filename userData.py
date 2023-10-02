@@ -13,3 +13,8 @@ class userData(BaseModel):
     gym_membership: Boolean
     annual_medical_screening: Boolean
     location: str
+
+class predictionData(BaseModel):
+    planId: int
+    hmoName: str
+    hmoPlan: str

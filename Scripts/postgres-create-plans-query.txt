@@ -1,0 +1,18 @@
+CREATE TABLE plans(
+	id SERIAL PRIMARY KEY,
+	description varchar(50) NULL,
+	title varchar(50) NULL,
+	price varchar(50) NULL,
+	tier varchar(50) NULL,
+	coverage varchar(50) NULL,
+	family_planning varchar(50) NULL,
+	mental_health varchar(50) NULL,
+	dental_care varchar(50) NULL,
+	telemedicine_service varchar(50) NULL,
+	cashback_benefit varchar(50) NULL,
+	anc_delivery_coverage varchar(50) NULL,
+	eye_care_cost varchar(50) NULL,
+	gym_membership varchar(50) NULL,
+	annual_medical_screening varchar(50) NULL,
+	plans_deleted_at varchar(50) NULL
+);
