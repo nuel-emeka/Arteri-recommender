@@ -8,13 +8,13 @@ from userData import userData, predictionData
 import uvicorn
 
 def get_connection():
-    # postgres database
-    # just a little changes
-    PG_USER= 'gurlinbg'
-    PG_PASSWORD= 'NQ0KmiLuOSlS5H2d6zMMoZZaqcvh-bC6'
-    PG_ADDRESS= 'dumbo.db.elephantsql.com'
-    PG_PORT= '5432'
-    PG_DATABASE= 'gurlinbg'
+    # postgres database details
+    PG_USER= '<Provide Postgres Username>'
+    PG_PASSWORD= '<Provide Postgres Password>'
+    PG_ADDRESS= '<Provide Postgres Host>'
+    PG_PORT= '<Provide Postgres Port>'
+    PG_DATABASE= '<Provide Postgres Database>'
+
     # connecting to DB
     conn = psycopg2.connect(dbname=PG_DATABASE, user=PG_USER, password=PG_PASSWORD, host=PG_ADDRESS)
 
